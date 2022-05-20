@@ -63,11 +63,13 @@
                     align-items: center;
                     text-align: center;
                     flex-direction: column;
+                    flex-wrap: wrap;
                 }
                 
                 .text {
                     width: 60%;
                     margin-left: 20%;
+                    flex-wrap: wrap;
                 }
                 
                 .text h1 {
@@ -86,6 +88,7 @@
                     position: relative;
                     flex-basis: 100%;
                     flex: 2;
+                    flex-wrap: wrap;
                 }
                 
                 .one {
@@ -217,6 +220,7 @@
                     color: white;
                     flex-basis: 100%;
                     justify-content: end;
+                    flex-wrap: wrap;
                 }
                 
                 .three h2 {
@@ -228,6 +232,7 @@
                     color: white;
                     line-height: 1;
                     justify-content: left;
+                    flex-wrap: wrap;
                 }
                 
                 .imagestwo {
@@ -279,6 +284,7 @@
                     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
                     border-radius: 15px;
                     padding: 2%;
+                    flex-wrap: wrap;
                 }
                 
                 .three .pargarphtop {
